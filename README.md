@@ -132,7 +132,7 @@ The colors are based on the [ISO 26825:2020 standard](https://www.iso.org/standa
 
 ## Why?
 
-Color coded drug labels are a safety feature in anesthesia and critical care areas. The colors are standardized to help prevent medication errors. This theme is intended to make it easier to use these colors in web applications.
+Color coded drug labels are a safety feature in anaesthesia and critical care areas. The colors are standardized to help prevent medication errors. This theme is intended to make it easier to use these colors in web applications.
 
 ## How to use
 
@@ -167,7 +167,7 @@ eg. for a hover effect:
 </button>
 ```
 
-These colors are part of the visual language of the clinical practice of anesthesia and critical care. Using them in web applications can help to make the applications more familiar and easier to use for clinicians.
+These colors are part of the visual language of the clinical practice of anaesthesia and critical care. Using them in web applications can help to make the applications more familiar and easier to use for clinicians.
 
 ![use](src/assets/SCR-20240224-molv.png)
 
